@@ -1,0 +1,10 @@
+D:\NetFramework\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe.config
+D:\NetFramework\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe
+D:\NetFramework\SimpleChat\SimpleChat\bin\Debug\SimpleChat.pdb
+D:\NetFramework\SimpleChat\SimpleChat\obj\Debug\SimpleChat.Form1.resources
+D:\NetFramework\SimpleChat\SimpleChat\obj\Debug\SimpleChat.Properties.Resources.resources
+D:\NetFramework\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.GenerateResource.cache
+D:\NetFramework\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.CoreCompileInputs.cache
+D:\NetFramework\SimpleChat\SimpleChat\obj\Debug\SimpleChat.exe
+D:\NetFramework\SimpleChat\SimpleChat\obj\Debug\SimpleChat.pdb
+D:\NetFramework\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csprojAssemblyReference.cache
